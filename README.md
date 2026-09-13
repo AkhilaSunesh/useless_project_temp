@@ -3,6 +3,8 @@
 # ThengaKola - Thenga Undo (തേങ്ങാ കൊല) 🎯
 > *"തേങ്ങ വീഴും മുമ്പേ, കൊല അറിയാം"* (Know the Thenga before the Kola!)
 
+Actual Repo: https://github.com/AkhilaSunesh/useless_project_temp (ente thanne)
+
 ## Basic Details
 ### Team Name: WannaBeInUndoUniverse
 
